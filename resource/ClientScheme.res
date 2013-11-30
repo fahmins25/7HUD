@@ -3175,7 +3175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Book"
+				"name"		"Market Deco"
 				"tall"		"11"
 				"additive"		"0"
 				"antialias"	"1"
@@ -3198,7 +3198,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Book"
+				"name"		"Market Deco"
 				"tall"		"10"
 				"additive"		"0"
 				"antialias"	"1"
