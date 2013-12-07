@@ -6,7 +6,7 @@ Window();
 [Border:0, BG:#DDDDDD, FG:#000000]
 Banner(“7hud.png", auto, topleft);
 
-[Name:Chat, Default:BOTTOM]
+[Name:Chat, Default:TOP]
 DynamicFileSwitcher("resource\ui\BaseChat.res", "Chat Position");
 
 [Portion:2]
