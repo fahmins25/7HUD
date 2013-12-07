@@ -1,3 +1,4 @@
+====
 7HUD
 ====
 To install:
@@ -14,23 +15,30 @@ IQ required:
 
 	7.6.
 
+============
+USING 4PLUG - http://teamfortress.tv/forum/thread/13401
+============
 
-7HUD
-====
-To install:
+4Plug is a program developed by four that acts as a plugin manager for TF2. I strongly recommend using it with my HUD, as it organizes all the links and allows you to edit simple things much easier.
 
-	- Download via the "Download ZIP" button on the right side of the github page. 
-	- Place the unzipped folder inside of your tf/custom folder. 
+------------------------------------------------------
+CHAT BOX POS. W/ 4PLUG:
+------------------------------------------------------
 
-To uninstall:
+	- Open 4Plug and click the settings button (the one next to the  bank of 4 buttons)
+	- Click the drop down under “Chat Position” and select the desired position
+	- Click apply and launch TF2.
+	
+------------------------------------------------------
+BINDING 2 FAVORITE SERVERS TO MENU BUTTONS W/ 4PLUG:
+------------------------------------------------------
 
-	Delete the folder.
+	- Open 4Plug and click the settings button (the one next to the  bank of 4 buttons)
+	- Change server IP’s and passwords to correct values.
+	- If there is no password, simply don’t put anything in the password box.
+	- DO NOT CHANGE THE TEXT VALUE, LEAVE IT AS 7 AND 6. These are the labels of the icons on the main menu.
 
-IQ required:
-
-	7.6.
-
-
+------------------------------------------------------
 ------------------------------------------------------
 CUSTOMIZING
 ------------------------------------------------------
@@ -105,5 +113,31 @@ KILLFEED:
 
 You can enable a background for the KILLFEED in the CLIENTSCHEME 
 
-  
+
+------------------------------------------------------
+------------------------------------------------------
+RECOMMENDED OPTIONS
+------------------------------------------------------
+------------------------------------------------------
+
+CHANGE NET_GRAPH SIZE IF YOU USE IT:
+
+If you use net_graph to monitor FPS/ping/lerp etc., I recommend changing the net_graph to a smaller size
+
+	1. Put these in your console for best results:
+	2. net_graph 1
+	3. net_graphproportionalfont 0
+	4. net_graphheight 48
+	5. net_graphpos 1
+
+------------------------------------------------------
+
+BIND 2 FAVORITE SERVERS TO MENU BUTTONS:
+
+	1. Put these codes in your autoexec.cfg:
+	2. alias Server1 "connect <ip here>"
+	3. alias Server2 "connect <ip here>"
+	4. Server1 corresponds to the top right button, Server2 the bottom. 
+	
+
 ------------------------------------------------------
