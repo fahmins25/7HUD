@@ -22,12 +22,20 @@ USING 4PLUG - http://teamfortress.tv/forum/thread/13401
 4Plug is a program developed by four that acts as a plugin manager for TF2. I strongly recommend using it with my HUD, as it organizes all the links and allows you to edit simple things much easier.
 
 ------------------------------------------------------
+HUD VERSION W/ 4PLUG:
+------------------------------------------------------
+
+	- Open 4Plug and click the settings button (the one next to the  bank of 4 buttons)
+	- Click the drop down under “HUD Version” and select the desired version
+	- Click apply and launch TF2 OR if you're already in-game, alt-tab back in and input "hud_reloadscheme" into console.
+
+------------------------------------------------------
 CHAT BOX POS. W/ 4PLUG:
 ------------------------------------------------------
 
 	- Open 4Plug and click the settings button (the one next to the  bank of 4 buttons)
 	- Click the drop down under “Chat Position” and select the desired position
-	- Click apply and launch TF2.
+	- Click apply and launch TF2 OR if you're already in-game, alt-tab back in and input "hud_reloadscheme" into console.
 	
 ------------------------------------------------------
 BINDING 2 FAVORITE SERVERS TO MENU BUTTONS W/ 4PLUG:
