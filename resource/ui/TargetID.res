@@ -114,9 +114,9 @@
 	{	
 		"ControlName"		"CExLabel"
 		"fieldName"		"TargetDataLabel"
-		"font"			"Medium10Shadow"
+		"font"			"Regular8"
 		"xpos"			"5"			
-		"ypos"			"26"		// -3
+		"ypos"			"25"		// -3
 		"zpos"			"2"
 		"wide"			"270"
 		"tall"			"18"
