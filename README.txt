@@ -16,7 +16,7 @@ IQ required:
 	7.6.
 
 ============
-USING 4PLUG - http://teamfortress.tv/forum/thread/13401
+USING 4PLUG - http://teamfortress.tv/forum/thread/13401 - YOU MUST HAVE THE NEWEST VERSION!
 ============
 
 4Plug is a program developed by four that acts as a plugin manager for TF2. I strongly recommend using it with my HUD, as it organizes all the links and allows you to edit simple things much easier.
