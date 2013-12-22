@@ -235,6 +235,7 @@ Scheme
 		"QualityColorStrange"					"207 106 50 255"	
 		"QualityColorCompleted"					"134 80 172 255"
 		"QualityColorHaunted"					"56 243 171 255"
+		"QualityColorCollectors"                "170 0 0 255"
 		
 		 "QualityColorNormal_GreyedOut"                        "44 44 44 255"
     	"QualityColorrarity1_GreyedOut"                        "20 29 21 255"
@@ -250,6 +251,7 @@ Scheme
         "QualityColorStrange_GreyedOut"                        "52 27 13 255"
         "QualityColorCompleted_GreyedOut"                "34 20 43 255"
         "QualityColorHaunted_GreyedOut"                        "14 61 43 255"
+        "QualityColorCollectors_GreyedOut"                "60 0 0 255"
 		
 		"SaleGreen"								"76 107 34 255"
 		
@@ -560,7 +562,7 @@ Scheme
 				"additive"	"0"
 				"antialias" 	"1"
 				"weight"	"0"
-				"outline"	"1"
+				"outline"	"0"
 			}
 		}
 		
@@ -1819,7 +1821,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Heavy"
+				"name"		"DOCK11 Heavy"
 				"tall"		"21"
 				"additive"		"0"
 				"antialias"	"1"
@@ -3113,7 +3115,7 @@ Scheme
 				"antialias"	"1"
 			}
 		}
-
+		
 		"Regular14"
 		{
 			"1"
