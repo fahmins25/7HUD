@@ -6720,5 +6720,6 @@ Scheme
 		{
 			"font" "resource/fonts/Compass.ttf"
 			"name" "Compass"
+		}
 	}
 }
