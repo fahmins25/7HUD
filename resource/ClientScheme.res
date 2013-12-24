@@ -1275,7 +1275,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Black"
+				"name"		"Market Deco"
 				"tall"		"26"
 				"additive"		"0"
 				"antialias"	"1"
@@ -3803,11 +3803,21 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"HudFontMediumBoldBP"
+		{
+			"1"
+			{
+				"name"		"Market Deco"
+				"tall"		"22"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"HudFontMediumSmallBold"
 		{
 			"1"
 			{
-				"name"		"AvenirLTStd-Book"
+				"name"		"Market Deco"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -3838,6 +3848,16 @@ Scheme
 			"1"
 			{
 				"name"		"AvenirLTStd-Book"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" 	"1"
+			}
+		}	
+		"HudFontSmallBP"
+		{
+			"1"
+			{
+				"name"		"Market Deco"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -5485,7 +5505,7 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"backpack_rect_mouseover_color"
-			"color"					"GrayBGDarkest"
+			"color"					"0 0 0 0"
 			
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
@@ -5545,7 +5565,7 @@ Scheme
 		{
 			"bordertype"			"scalable_image"
 			"backgroundtype"		"2"
-			"color"					"Black"
+			"color"					"Gray"
 			
 			"image"					"backpack_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
@@ -5582,7 +5602,7 @@ Scheme
         {
                 "bordertype"                        "scalable_image"
                 "backgroundtype"                "2"
-                "color"                                        "Black"
+                "color"                                        "Gray"
  
                 "image"                                        "backpack_rect_selected"
                 "src_corner_height"                "24"                                // pixels inside the image
@@ -5679,7 +5699,7 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"backpack_rect_mouseover_color"
-			"color"					"GrayBGDark"
+			"color"					"Gray"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
 			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
