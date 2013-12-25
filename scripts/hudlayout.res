@@ -84,27 +84,27 @@
 		"controlname"	"CExLabel"
 		"fieldname"	"fogCrosshair"
 		
-		"visible"	"0"			//1
+		"visible"	"0"			//1 to make visible
 		"enabled"	"1"
 
-		"xpos"		"c-16"
-		"ypos"		"c-16"
+		"xpos"		"c-16"		//place laterally
+		"ypos"		"c-16"		//place vertically
 		"zpos"		"2"
 		
-		"wide"		"36"
-		"tall"		"29"
+		"wide"		"33"		//minute placement adjustments laterally
+		"tall"		"34"		//minute placement adjustments vertically
 
-		"font"		"fogCrosshair"
+		"font"		"fogCrosshair"		//change to fogCrosshairSmall for a smaller xhair
 
-		"labeltext"	"q"
-		// Change the "1" to represent the crosshair you want displayed in the Crosshairs.jpg
+		"labeltext"	"y"
+		// Change the "y" to represent the crosshair you want displayed in the Crosshairs.jpg
 		
 		// Remember, each resolution behaves differently, if your crosshair is skewed, not centered,
 		// you will have to play around with the "xpos", "ypos", "wide" and "tall" values.
 		// There are no fixed numbers for this
 		"textAlignment"	"center"
 		
-		"fgcolor"	"Green"
+		"fgcolor"	"WhiteS"
 		
 		// You can insert an RGB code here instead of the "White"
 		
@@ -656,7 +656,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	"c35"
-		"ypos"	"r150"
+		"ypos"	"r80"
 		"wide"	"200"
 		"tall"	"80"
 	}
@@ -704,7 +704,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"			"0"		//c-95
-		"ypos"			"0"		//"r164"	
+		"ypos"			"70"		//"r164"	
 		"wide"			"f0"		
 		"tall"			"600"		//100
 		"MeterFG"		"White"

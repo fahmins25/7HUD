@@ -6658,7 +6658,7 @@ Scheme
 		}		
 		"13" 
 		{
-			"font" "resource/fonts/crosshairs.ttf"
+			"font" "resource/fonts/Crosshairs.otf"
 			"name" "Crosshairs"
 		}
 		"14"
