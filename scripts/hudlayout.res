@@ -50,12 +50,12 @@
 
 		"MaxDeathNotices" "12"
 		"IconScale"	  "0.35"
-		"LineHeight"	  "8"
+		"LineHeight"	  "10"
 		"LineSpacing"	  "-1"
 		"CornerRadius"	  "1"
 		"RightJustify"	  "1"	// If 1, draw notices from the right
 		
-		"TextFont"		"Regular8"
+		"TextFont"		"Regular10"
 		
 		"TeamBlue"		"HUDBlueTeamSolid"
 		"TeamRed"		"HUDRedTeamSolid"
